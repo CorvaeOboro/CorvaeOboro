@@ -13,7 +13,7 @@
 </tr>
 
 <tr>
-<td align="center"><a href="https://github.com/CorvaeOboro/gen_ability_icon"><img src="IMAGES/gen_ability_icon_header.jpg" width="450"><br> art folio </a></td>
+<td align="center"><a href="https://github.com/CorvaeOboro/gen_ability_icon"><img src="IMAGES/gen_ability_icon_header.jpg" width="450"><br> gen ability icon </a></td>
 <td align="center"></td>
 </tr>
 
