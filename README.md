@@ -14,7 +14,7 @@
 
 <tr>
 <td align="center"><a href="https://github.com/CorvaeOboro/gen_ability_icon"><img src="IMAGES/gen_ability_icon_header.jpg" width="450"><br> gen ability icon </a></td>
-<td align="center"></td>
+<td align="center"><a href="https://github.com/CorvaeOboro/gen_item"><img src="IMAGES/gen_item_header.jpg" width="450"><br> gen item </a></td>
 </tr>
 
 </table>
