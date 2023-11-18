@@ -9,7 +9,7 @@
 
 <tr>
 <td align="center"><a href="https://github.com/CorvaeOboro/ultima_online_mods"><img src="IMAGES/ultima_online_mods_header.jpg" width="450"><br>ultima art mods</a></td>
-<td align="center"><a href="https://github.com/CorvaeOboro/everquest_art_mods"><img src="IMAGES/everquest_art_mods" width="450"><br>everquest art mods</a></td>
+<td align="center"><a href="https://github.com/CorvaeOboro/everquest_art_mods"><img src="IMAGES/everquest_art_mods_header.jpg" width="450"><br>everquest art mods</a></td>
 </tr>
 
 <tr>
